@@ -78,10 +78,10 @@ A system can pass tests, look random, and still be predictable.
 ## Blog posts
 
 Part 1:
-[[Nothing is Random Part1](https://medium.com/@ruparelnitya/nothing-is-random-part-1-c5a4167c9fcd)]([https://your-link-to-part1](https://medium.com/@ruparelnitya/nothing-is-random-part-1-c5a4167c9fcd))
+[[Nothing is Random Part1](https://medium.com/@ruparelnitya/nothing-is-random-part-1-c5a4167c9fcd)]
 
 Part 2:
-[[Nothing is Random Part2](https://medium.com/@ruparelnitya/nothing-is-random-part-2-86bcdd9799c8)]([https://your-link-to-part2](https://medium.com/@ruparelnitya/nothing-is-random-part-2-86bcdd9799c8))
+[[Nothing is Random Part2](https://medium.com/@ruparelnitya/nothing-is-random-part-2-86bcdd9799c8)]
 
 ---
 
